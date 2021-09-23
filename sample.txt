@@ -1,3 +1,5 @@
 this is my first file
 i want to use in git purpose
 linux commands added
+branching concept
+merge concept
