@@ -1,5 +1,5 @@
 this is my first File
 i want to use in git purpose
 linux commands added
-
-
+for fetch information few lines will be added
+clear information
